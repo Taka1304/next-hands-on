@@ -2623,7 +2623,7 @@ __metadata:
     next: "npm:14.1.0"
     postcss: "npm:^8"
     prettier: "npm:^3.2.5"
-    react: "npm:^18"
+    react: "npm:^18.2.0"
     react-dom: "npm:^18"
     tailwindcss: "npm:^3.3.0"
     typescript: "npm:^5"
@@ -3133,7 +3133,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18":
+"react@npm:^18.2.0":
   version: 18.2.0
   resolution: "react@npm:18.2.0"
   dependencies:
