@@ -1,9 +1,7 @@
 
 import React, { ComponentPropsWithoutRef } from 'react';
 
-type Props = Omit<ComponentPropsWithoutRef<'button'>, 'className'> & {
-  children: React.ReactNode
-}
+type Props = Omit<ComponentPropsWithoutRef<'button'>, 'className'>
 
 const Button = ({ children, ...rest }: Props) => {
   return (
